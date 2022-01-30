@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️**About Me**
 
-- 🔭 I’m currently working on **Real time Crypto Currency price tracker/plotter with TKinter in Python**
+- 🔭 I’m currently working on **Building Tkinter interface for Crypto Price plotter**
 
 - 🌱 I’m currently learning **OOP in C++**
 
