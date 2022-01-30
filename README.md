@@ -31,7 +31,10 @@
   <a href="https://github.com/Samar-Pawase/github-readme-stats"><img alt="Vedant Gokhale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-Pawase&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
-<h3 align="left">Connect with me:</h3>
+## 🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/samar_pawase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samar_pawase" height="30" width="40" /></a>
 </p>
+
+## 🐍 Contributions
+![snake gif](https://github.com/Samar-Pawase/Samar-Pawase/blob/output/github-contribution-grid-snake.gif)
