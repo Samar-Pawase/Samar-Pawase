@@ -5,8 +5,6 @@
 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samar-pawase" alt="samar-pawase" /></a> </p>
-
 ## 🙋‍♂️**About Me**
 
 - 🔭 I’m currently working on **Real time Crypto Currency price tracker/plotter with TKinter in Python**
