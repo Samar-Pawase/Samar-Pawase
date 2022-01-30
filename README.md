@@ -23,8 +23,9 @@
 <p align="centre"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
+<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samar-Pawasae&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samar-Pawase&theme=github-dark&hide_border=true&stroke=3573A6&ring=3573A6ED&currStreakLabel=84C8DD&background=0D1017&sideLabels=84C8DD)](https://git.io/streak-stats)
   <br/>
 ## 📊 My Github Stats
   <br/>
