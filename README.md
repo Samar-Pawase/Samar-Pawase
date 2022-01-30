@@ -24,9 +24,8 @@
 <br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samar-Pawase)](https://git.io/streak-stats)
-<br/>
+  <br/>
 ## 📊 My Github Stats
-
   <br/>
     <a href="https://github.com/Samar-Pawase/github-readme-stats"><img alt="Vedant Gokhale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Samar-Pawase&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Samar-Pawase/github-readme-stats"><img alt="Vedant Gokhale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-Pawase&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
