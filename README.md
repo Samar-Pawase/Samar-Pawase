@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **OOP in C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Samar-Pawase]<a href="https://github.com/Samar-Pawase/github-readme-stats">
-
-- 💬 Ask me about **C, Python & C++**
+- 👨‍💻 All of my projects are available here on my GitHub
 
 - 📫 How to reach me **samarpawase@gmail.com**
 
