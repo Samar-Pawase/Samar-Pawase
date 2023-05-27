@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️**About Me**
 
-- 🔭 I’m currently working on **Building Tkinter interface for Crypto Price plotter**
+- 🔭 I’m currently working on **Developing problem solving skills**
 
-- 🌱 I’m currently learning **OOP in C++**
+- 🌱 I’m currently learning **Data Science and ML**
 
 - 👨‍💻 All of my projects are available here on my GitHub
 
