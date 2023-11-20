@@ -6,6 +6,8 @@
 <hr>
 
 ## 🙋‍♂️**About Me**
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="samar-pawase" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/samar-pawase?trk=profile-badge">Samar Pawase</a></div>
+              
 
 - 🔭 I’m currently working on **Developing problem solving skills**
 
